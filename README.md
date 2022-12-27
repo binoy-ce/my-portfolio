@@ -1,2 +1,1 @@
-# my-portfolio
-All about me.
+# My-Portfolio
