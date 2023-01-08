@@ -3,5 +3,5 @@
 This is my Website Repo.
 
 # 💻 Things to work on
->Get a basic ui 
->Get it working
+<li>Get a basic UI</li>
+<li>Get it working</li>
